@@ -1,1 +1,1 @@
-# iOS-Applictions
+# iOS-Applications
