@@ -7,5 +7,4 @@
 <img src="https://github.com/user-attachments/assets/bab12ccc-7622-42c8-8280-9f37d39515e4" width="300" height="600" style="display:inline-block;"/>
 
 # 3] Data JSON
-<img src="![Image](https://github.com/user-attachments/assets/3c5c7ee8-8f7d-4884-a1a1-4495464f2376)
-" alt="Sample Image" style="width:300px; height:600px;">
+<img src="https://github.com/user-attachments/assets/3c5c7ee8-8f7d-4884-a1a1-4495464f2376" width="300" height="600" style="display:inline-block;"/>
