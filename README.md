@@ -8,6 +8,8 @@
 <img src="![Image](https://github.com/user-attachments/assets/bab12ccc-7622-42c8-8280-9f37d39515e4)
 " alt="Sample Image" style="width:300px; height:600px;">
 
+![Image](https://github.com/user-attachments/assets/016645d5-625f-4b1d-b3cb-4a8b13e4695d)
+
 # 3] Data JSON
 <img src="![Image](https://github.com/user-attachments/assets/3c5c7ee8-8f7d-4884-a1a1-4495464f2376)
 " alt="Sample Image" style="width:300px; height:600px;">
